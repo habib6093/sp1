@@ -10,8 +10,8 @@
 
 <p align="center">
   
-<h2 align="center">edit php.ini file in   /etc/php/7.0/cli  and  /etc/php/7.0/apache2</h2>
- <ul align="center">
+<h3 align="center">edit php.ini file in   /etc/php/7.0/cli  and  /etc/php/7.0/apache2</h3>
+ <ul>
   <li>upload_max_filesize=200M  // 2M means 2MB</li>
   <li>post_max_size=200M</li>
   <li>max_input_time=30000      //300 means 3 sec</li>
